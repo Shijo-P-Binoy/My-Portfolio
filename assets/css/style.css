@@ -447,6 +447,9 @@ section {
   width: 55px;
   height: 55px;
   text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .social_link {
